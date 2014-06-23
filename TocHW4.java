@@ -16,7 +16,7 @@ class area_price{
 	}
 };
 
-public class TocHw4 {
+public class TocHW4 {
 	/**
 	 * @param args
 	 * @throws JSONException 
